@@ -27,4 +27,25 @@
     "iconUrl": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/refs/heads/main/MovieBox.png",
     "description": "3 extension (MovieBox - Netnaija - Sflix)"
   }
+  {
+    "url": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/main/StreamPlay.cs3",
+    "status": 1,
+    "version": 649,
+    "apiVersion": 1,
+    "name": "StreamPlay",
+    "internalName": "StreamPlay",
+    "authors": ["Phisher98", "Hexated"],
+    "language": "en",
+    "tvTypes": ["AsianDrama", "TvSeries", "Anime", "Movie", "Cartoon", "AnimeMovie"],
+    "fileSize": 928522,
+    "iconUrl": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/refs/heads/main/StreamPlay.png",
+    "description": "#1 best extention based on MultiAPI"
+  },
 ]
+
+
+
+
+
+
+

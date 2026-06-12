@@ -1,19 +1,19 @@
 [
-{
-"url": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/main/Anichin.cs3",
-"status": 1,
-"version": 25,
-"apiVersion": 1,
-"name": "Anichin",
-"internalName": "Anichin",
-"authors": ["Entahlah", "Tidaktahu", "Serah"],
-"language": "id",
-"tvTypes": ["AnimeMovie", "Anime", "OVA"],
-"fileSize": 31640,
-"iconUrl": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/refs/heads/main/Anichin.png",
-"description": "Anichin Care"
-},
-{
+  {
+    "url": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/main/Anichin.cs3",
+    "status": 1,
+    "version": 25,
+    "apiVersion": 1,
+    "name": "Anichin",
+    "internalName": "Anichin",
+    "authors": ["Entahlah", "Tidaktahu", "Serah"],
+    "language": "id",
+    "tvTypes": ["AnimeMovie", "Anime", "OVA"],
+    "fileSize": 31640,
+    "iconUrl": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/refs/heads/main/Anichin.png",
+    "description": "Anichin Care"
+  },
+  {
     "url": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/main/MovieBox.cs3",
     "status": 1,
     "version": 6,
@@ -26,5 +26,5 @@
     "fileSize": 74677,
     "iconUrl": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/refs/heads/main/MovieBox.png",
     "description": "3 extension (MovieBox - Netnaija - Sflix)"
-  },
+  }
 ]

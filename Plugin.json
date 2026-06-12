@@ -12,5 +12,19 @@
 "fileSize": 31640,
 "iconUrl": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/refs/heads/main/Anichin.png",
 "description": "Anichin Care"
-}
+},
+{
+    "url": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/main/MovieBox.cs3",
+    "status": 1,
+    "version": 6,
+    "apiVersion": 1,
+    "name": "MovieBox",
+    "internalName": "MovieBox",
+    "authors": ["NivinCNC", "Asm0d3usX", "Alivsc"],
+    "language": "id",
+    "tvTypes": ["AnimeMovie", "Anime", "OVA", "Movie", "TvSeries"],
+    "fileSize": 74677,
+    "iconUrl": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/refs/heads/main/MovieBox.png",
+    "description": "3 extension (MovieBox - Netnaija - Sflix)"
+  },
 ]

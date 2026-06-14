@@ -54,7 +54,21 @@
     "fileSize": 10116,
     "iconUrl": "https://cam4-static-test.xcdnpro.com/web/v2/app/phoenix/assets/static/media/favicon-512.d64f9b4e.png",
     "description": "Tonton dan Mengobrol dengan 750+ Wanita Panas yang Sedang Siaran"
-  }  
+  },  
+  {
+    "url": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/main/Paradisehill.cs3",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "name": "Paradisehill",
+    "internalName": "Paradisehill",
+    "authors": ["Sora"],
+    "language": "en",
+    "tvTypes": ["NSFW"],
+    "fileSize": 12672,
+    "iconUrl": "https://www.google.com/s2/favicons?domain=en.paradisehill.cc&sz=%size%",
+    "description": "Series Dewasa (Gunakan VPN jika link tidak bekerja)"
+  }    
 ]
 
 

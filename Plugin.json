@@ -48,9 +48,9 @@
     "apiVersion": 1,
     "name": "Cam4",
     "internalName": "Cam4",
-    "authors": "0wen Cz",
+    "authors": ["0wen Cz"],
     "language": "en",
-    "tvTypes": "NSFW",
+    "tvTypes": ["NSFW"],
     "fileSize": 10116,
     "iconUrl": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/refs/heads/main/Cam4.png",
     "description": "Tonton dan Mengobrol dengan 750+ Wanita Panas yang Sedang Siaran"

@@ -110,6 +110,20 @@
     "fileSize": 17430,
     "iconUrl": "https://homecookingrocks.com/wp-content/uploads/2024/10/cropped-indomax21-favicon-color-1.png",
     "description": "Nonton Anime Sub Indo"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/main/LayarKaca.cs3",
+    "status": 1,
+    "version": 24,
+    "apiVersion": 1,
+    "name": "LayarKaca",
+    "internalName": "LayarKaca",
+    "authors": ["Hexated", "Alivsc", "Sofie"],
+    "language": "id",
+    "tvTypes": ["AnimeMovie", "Anime", "OVA"],
+    "fileSize": 17430,
+    "iconUrl": "hhttps://assets.lk21.party/favicons/apple-icon-144x144.png",
+    "description": "Nonton Movie Sub Indo"
   }  
 ]
 

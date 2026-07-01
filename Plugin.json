@@ -83,14 +83,27 @@
     "iconUrl": "https://javhd.today/logo/javhd1.png",
     "description": "Nonton JAV Sub Indo"
   },
-
-    {
+  {
     "url": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/main/Hidori.cs3",
     "status": 1,
     "version": 24,
     "apiVersion": 1,
     "name": "Hidori",
     "internalName": "Hidori",
+    "authors": ["Hexated", "Alivsc", "Sofie"],
+    "language": "id",
+    "tvTypes": ["AnimeMovie", "Anime", "OVA"],
+    "fileSize": 17430,
+    "iconUrl": "https://v2.samehadaku.how/wp-content/uploads/2024/07/logo-samehadaku-2.png",
+    "description": "Nonton Anime Sub Indo"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/main/IndoMax.cs3",
+    "status": 1,
+    "version": 24,
+    "apiVersion": 1,
+    "name": "IndoMax",
+    "internalName": "Indomax",
     "authors": ["Hexated", "Alivsc", "Sofie"],
     "language": "id",
     "tvTypes": ["AnimeMovie", "Anime", "OVA"],

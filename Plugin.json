@@ -124,7 +124,21 @@
     "fileSize": 17430,
     "iconUrl": "https://assets.lk21.party/favicons/apple-icon-144x144.png",
     "description": "Nonton Movie Sub Indo"
-  }  
+  },
+  {
+    "url": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/main/JavHey.cs3",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "name": "JavHey",
+    "internalName": "JavHey",
+    "authors": ["Sora"],
+    "language": "en",
+    "tvTypes": ["NSFW"],
+    "fileSize": 12672,
+    "iconUrl": "https://missav.ws/missav/logo-square.png",
+    "description": "JAV Sub Indo"
+  }
 ]
 
 

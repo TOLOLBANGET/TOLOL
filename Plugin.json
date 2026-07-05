@@ -189,6 +189,7 @@
     "name": "YoutubeProvider",
     "internalName": "YoutubeProvider",
     "authors": ["KaifTaufiq"],
+    "language": "id",
     "tvTypes": ["Other", "Live", "TvSeries"],
     "fileSize": 13152,
     "jarFileSize": 46472,
@@ -197,7 +198,7 @@
     "jarHash": "sha256-0d83e79f196464e50b8b1aa4c13683b2428fc3556651a0d190981c1149b3ea41",
     "repositoryUrl": "https://github.com/recloudstream/extensions",
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/3840px-YouTube_full-color_icon_%282017%29.svg.png",
-    "description": "Watch YouTube in Cloudstream"
+    "description": "Nonton YouTube di Cloudstream"
   }
 ]
 

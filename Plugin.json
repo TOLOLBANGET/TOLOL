@@ -174,11 +174,11 @@
     "apiVersion": 1,
     "name": "IPTV",
     "internalName": "IPTV",
-    "authors": ["Sora"],
-    "language": "en",
-    "tvTypes": ["movie"],
-    "fileSize": 12672,
-    "iconUrl": "https://missav.ws/missav/logo-square.png",
+    "authors": ["Anhdaden", "Dogior"],
+    "language": "id",
+    "tvTypes": ["Live"],
+    "fileSize": 40025,
+    "iconUrl": "hhttps://www.shutterstock.com/image-vector/iptv-vector-line-icon-ip-260nw-1841427610.jpg",
     "description": "JAV Sub Indo"
   }
 ]

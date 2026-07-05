@@ -166,6 +166,20 @@
     "fileSize": 31640,
     "iconUrl": "https://lh3.googleusercontent.com/zwKn_6sdYOdIiWg6Gtnx-Ar2DrVamlADnPN8BE4f84-a9aRo2Zc7mxbW5Qd26Z8cPFc",
     "description": "Nonton Anime Sub Indo"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/main/IPTV.cs3",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "name": "IPTV",
+    "internalName": "IPTV",
+    "authors": ["Sora"],
+    "language": "en",
+    "tvTypes": ["movie"],
+    "fileSize": 12672,
+    "iconUrl": "https://missav.ws/missav/logo-square.png",
+    "description": "JAV Sub Indo"
   }
 ]
 

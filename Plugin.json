@@ -180,6 +180,24 @@
     "fileSize": 40025,
     "iconUrl": "https://www.shutterstock.com/image-vector/iptv-vector-line-icon-ip-260nw-1841427610.jpg",
     "description": "Pemutar IPTV umum. Tambahkan daftar di pengaturan dan Anda akan melihatnya di daftar plugin di beranda"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/recloudstream/extensions/builds/YoutubeProvider.cs3",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "name": "YoutubeProvider",
+    "internalName": "YoutubeProvider",
+    "authors": ["KaifTaufiq"],
+    "tvTypes": ["Other", "Live", "TvSeries"],
+    "fileSize": 13152,
+    "jarFileSize": 46472,
+    "fileHash": "sha256-a246eb1584cec9e69ba8c50136b9e8dc11a2fc0ab225710c31ad66c2ec4f4efe",
+    "jarUrl": "https://raw.githubusercontent.com/recloudstream/extensions/builds/YoutubeProvider.jar",
+    "jarHash": "sha256-0d83e79f196464e50b8b1aa4c13683b2428fc3556651a0d190981c1149b3ea41",
+    "repositoryUrl": "https://github.com/recloudstream/extensions",
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/3840px-YouTube_full-color_icon_%282017%29.svg.png",
+    "description": "Watch YouTube in Cloudstream"
   }
 ]
 

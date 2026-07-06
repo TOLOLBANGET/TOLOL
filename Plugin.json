@@ -100,13 +100,13 @@
   {
     "url": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/main/IndoMax.cs3",
     "status": 1,
-    "version": 24,
+    "version": 1,
     "apiVersion": 1,
     "name": "IndoMax",
     "internalName": "IndoMax",
-    "authors": ["Hexated", "Alivsc", "Sofie"],
+    "authors": ["miku"],
     "language": "id",
-    "tvTypes": ["AnimeMovie", "Anime", "OVA"],
+    "tvTypes": ["NSFW"],
     "fileSize": 17430,
     "iconUrl": "https://homecookingrocks.com/wp-content/uploads/2024/10/cropped-indomax21-favicon-color-1.png",
     "description": "Nonton Anime Sub Indo"

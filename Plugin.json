@@ -199,6 +199,20 @@
     "repositoryUrl": "https://github.com/recloudstream/extensions",
     "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/3840px-YouTube_full-color_icon_%282017%29.svg.png",
     "description": "Nonton YouTube di Cloudstream"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/main/KlikXXI.cs3",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "name": "KlikXXI",
+    "internalName": "KlikXX1",
+    "authors": ["miku"],
+    "language": "id",
+    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
+    "fileSize": 928522,
+    "iconUrl": "https://play-lh.googleusercontent.com/M-DcaIOldYMJsrdyIHtYHMpPcs8dE4GqgW4_tlX-3ubAqUgG4vKn_CvQRsLrGLvYpZfnZUaPnoM32j2-cNHK",
+    "description": "Streaming Movie dan Tv Series"
   }
 ]
 

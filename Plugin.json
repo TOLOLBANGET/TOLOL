@@ -182,12 +182,12 @@
     "description": "Pemutar IPTV umum. Tambahkan daftar di pengaturan dan Anda akan melihatnya di daftar plugin di beranda"
   },
   {
-    "url": "https://raw.githubusercontent.com/recloudstream/extensions/builds/YoutubeProvider.cs3",
+    "url": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/main/YouTube.cs3",
     "status": 1,
     "version": 1,
     "apiVersion": 1,
-    "name": "YoutubeProvider",
-    "internalName": "YoutubeProvider",
+    "name": "YouTube",
+    "internalName": "YouTube",
     "authors": ["KaifTaufiq"],
     "language": "id",
     "tvTypes": ["Other", "Live", "TvSeries"],

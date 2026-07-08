@@ -237,6 +237,19 @@
     "fileSize": 31640,
     "iconUrl": "https://play-lh.googleusercontent.com/G9s84Cm1TDnKDX2P8nipS_s60cuCnYtjBRRLespF8nivjXmbV9tF1fY37clZhXMLaA",
     "description": "Streaming BiliBili di Cloudstream"
+  },
+  { "url": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/main/MovieOn21cs3",
+    "status": 1,
+    "version": 6,
+    "apiVersion": 1,
+    "name": "MovieOn21",
+    "internalName": "MovieOn21",
+    "authors": ["Sad25kag"],
+    "language": "id",
+    "tvTypes": ["Movie", "TvSeries", "AsianDrama"],
+    "fileSize": 74677,
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tv.movieon21.mov&sz=%size%",
+    "description": "MovieOn21 provider v6 dengan kategori homepage dirapikan, metadata non-dewasa, dan resolver t21.press Utama/Hydra berbasis HAR"
   }
 ]
 

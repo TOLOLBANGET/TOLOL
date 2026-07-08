@@ -250,7 +250,20 @@
     "fileSize": 74677,
     "iconUrl": "https://tv.movieon21.mov/favicon.ico",
     "description": "MovieOn21 provider v6 dengan kategori homepage dirapikan, metadata non-dewasa, dan resolver t21.press Utama/Hydra berbasis HAR"
-  }
+  },
+  { "url": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/main/FreeReels.cs3",
+    "status": 1,
+    "version": 6,
+    "apiVersion": 1,
+    "name": "FreeReels",
+    "internalName": "FreeReels",
+    "authors": ["Sad25kag"],
+    "language": "id",
+    "tvTypes": ["Movie", "TvSeries", "AsianDrama"],
+    "fileSize": 74677,
+    "iconUrl": "https://free-reels.com/free-reels.png",
+    "description": "Drama Short"
+    }
 ]
 
 

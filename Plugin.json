@@ -282,8 +282,8 @@
     "status": 1,
     "version": 6,
     "apiVersion": 1,
-    "name": "MovieBox",
-    "internalName": "MovieBox",
+    "name": "Alqanime",
+    "internalName": "Alqanime",
     "authors": ["NivinCNC", "Asm0d3usX", "Alivsc"],
     "language": "id",
     "tvTypes": ["AnimeMovie", "Anime", "OVA", "Movie", "TvSeries"],
@@ -296,14 +296,14 @@
     "status": 1,
     "version": 6,
     "apiVersion": 1,
-    "name": "MovieBox",
-    "internalName": "MovieBox",
+    "name": "Donghuastream",
+    "internalName": "Donghuastream",
     "authors": ["NivinCNC", "Asm0d3usX", "Alivsc"],
-    "language": "id",
+    "language": "en",
     "tvTypes": ["AnimeMovie", "Anime", "OVA", "Movie", "TvSeries"],
     "fileSize": 74677,
-    "iconUrl": "https://movieboxapp.to/wp-content/uploads/2026/04/moviebox.webp",
-    "description": "Berisi 3 ekstensi (MovieBox, Netnaija, dan Sflix)"
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo5Whx02I3amhFgxJ2rbYrO_-9W_YvPHukDB_TD1XBmwc-WBFDS61_RKCk&s=10",
+    "description": "Nonton Donghua"
   }
 ]
 

@@ -197,18 +197,18 @@
     "description": "Nonton YouTube di Cloudstream"
   },
   {
-    "url": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/main/KlikXXI.cs3",
+    "url": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/main/Extractors.cs3",
     "status": 1,
     "version": 1,
     "apiVersion": 1,
-    "name": "KlikXXI",
-    "internalName": "KlikXXI",
-    "authors": ["miku"],
+    "name": "Extractors",
+    "internalName": "Extractors",
+    "authors": ["pocong"],
     "language": "id",
-    "tvTypes": ["AsianDrama", "TvSeries", "Movie"],
+    "tvTypes": ["Others"],
     "fileSize": 21422,
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://klikxxi.fit&size=%size%",
-    "description": "Streaming Movie dan Tv Series"
+    "description": "Extractors"
   },
     {
     "url": "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/main/Animexin.cs3",

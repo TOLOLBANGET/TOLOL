@@ -1,9 +1,0 @@
-{
-  "name": "TOLOL",
-  "description": "Repo Nonton Film",
-  "iconUrl": "https://cdn-images.dzcdn.net/images/cover/2ea82a0300d8198ec3372a8f3b276632/1900x1900-000000-80-0-0.jpg",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/TOLOLBANGET/TOLOL/refs/heads/main/Plugin.json"
-  ]
-}
